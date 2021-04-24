@@ -20,7 +20,7 @@
 1. **w 등 변수**를 바꿔준다.
 2. **model complexity 더해준다**. (Ein **+ Ω**)
 
-    Ein을 minimize하려다보니 Overfit 발생
+    Ein을 minimize하려다보니 Overfit 발생   
     —> 모델 복잡도 Ω를 더해줌으로써 Ein ~= Eout 상태로 만든다.
 
 3. **Ensemble methods** (앙상블 메서드)
