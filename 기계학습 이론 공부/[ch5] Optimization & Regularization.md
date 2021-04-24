@@ -58,9 +58,9 @@
 
 ### 5-Cross-Validation
 
-5-cross-validation (교차검증)이란,
-기본적으로 데이터를 test set과 train set으로 나누고, 
-train set 내에서 data를 5개로 분할한 뒤 그 중 한 개를 validation set으로 정하는 방식이다.
+5-cross-validation (교차검증)이란,   
+기본적으로 데이터를 test set과 train set으로 나누고,    
+train set 내에서 data를 5개로 분할한 뒤 그 중 한 개를 **validation set**으로 정하는 방식이다.   
 
 (그리하여 test data : validation data : train data의 비율은 약 1:1:8 정도가 된다)
 ![Untitled 4](https://user-images.githubusercontent.com/61778930/115956998-e85c9580-a53a-11eb-99f2-7acc53c14107.png)
