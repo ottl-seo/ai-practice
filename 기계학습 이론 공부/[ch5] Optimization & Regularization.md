@@ -9,7 +9,8 @@
 
 - what is it?
 
-    모델이 too complex해지면 noise까지 과도하게 학습시키는 overfit 발생
+    모델이 too complex해지면 noise까지 과도하게 학습시키는 overfit 발생     
+    
     —> overfit 하지 않도록 모델을 조정(**constrain**)해주는 것이 정규화의 목적
 
     "**`constrain`** *a model so that it can avoid fitting noise"*
