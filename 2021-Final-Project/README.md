@@ -6,7 +6,7 @@
 1. Inception module 구현 및 설명
 2. GoogLeNet 모델 구현 및 설명
 3. 직접 구현한 모델(MyNet) 설명
-4. 성능 개선 일지 — hyper-parameter Tuning 과정
+4. 성능 개선 일지 — hyper-parameter tuning
 5. 최종 결과
 
 ---
